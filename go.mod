@@ -3,8 +3,8 @@ module github.com/tharsis/evmos
 go 1.17
 
 require (
-	github.com/cosmos/cosmos-sdk v0.44.2
-	github.com/cosmos/ibc-go v1.2.1
+	github.com/cosmos/cosmos-sdk v0.44.3
+	github.com/cosmos/ibc-go v1.2.2
 	github.com/ethereum/go-ethereum v1.10.3
 	github.com/gorilla/mux v1.8.0
 	github.com/rakyll/statik v0.1.7
@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tendermint v0.34.14
 	github.com/tendermint/tm-db v0.6.4
-	github.com/tharsis/ethermint v0.7.1
+	github.com/tharsis/ethermint v0.7.2
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 )
 
